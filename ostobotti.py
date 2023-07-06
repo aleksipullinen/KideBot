@@ -13,7 +13,7 @@ from webdriver_manager.chrome import ChromeDriverManager
 from selenium.webdriver.chrome.service import Service
 import subprocess
 
-# morjesta
+
 #Avaa ohjelman aina samassa selaimessa ja tietyllä välilehdellä
 # Aja terminaaliin Google\ Chrome --remote-debugging-port=9222 --user-data-dir="~/ChromeProfile"
 # Ei muita välilehtiä auki
